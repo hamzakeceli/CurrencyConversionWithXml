@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\KurConvert\KurConvert\bin\Debug\KurConvert.exe.config
+C:\Users\User\source\repos\KurConvert\KurConvert\bin\Debug\KurConvert.exe
+C:\Users\User\source\repos\KurConvert\KurConvert\bin\Debug\KurConvert.pdb
+C:\Users\User\source\repos\KurConvert\KurConvert\obj\Debug\KurConvert.Properties.Resources.resources
+C:\Users\User\source\repos\KurConvert\KurConvert\obj\Debug\KurConvert.csproj.GenerateResource.cache
+C:\Users\User\source\repos\KurConvert\KurConvert\obj\Debug\KurConvert.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KurConvert\KurConvert\obj\Debug\KurConvert.exe
+C:\Users\User\source\repos\KurConvert\KurConvert\obj\Debug\KurConvert.pdb
+C:\Users\User\source\repos\KurConvert\KurConvert\obj\Debug\KurConvert.csprojAssemblyReference.cache
+C:\Users\User\source\repos\KurConvert\KurConvert\obj\Debug\KurConvert.Kur.resources
